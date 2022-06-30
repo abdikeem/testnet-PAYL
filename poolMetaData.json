@@ -1,6 +1,7 @@
 {
-"name": "Paylend Pool",
-"description": "This is testnet pool",
-"ticker": "PAYL",
-"homepage": "https://paylend.africa"
+    "name": "Paylend Pool",
+    "description": "Paylend testnet pool",
+    "ticker": "PAYL",
+    "homepage": "https://payl.to"
 }
+    
